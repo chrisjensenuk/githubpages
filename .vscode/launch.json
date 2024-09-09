@@ -1,0 +1,11 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "type": "chrome",
+        "request": "launch",
+        "name": "Launch what's for dinner",
+        "url": "file:///C:/git/githubpages/whatsfordinner/index.html"
+      }
+    ]
+  }
