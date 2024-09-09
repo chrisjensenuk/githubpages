@@ -4,7 +4,7 @@ const dinners = txtDinners.split('\n');
 const btn = document.getElementById("btnGo");
 btn.addEventListener('click', function(event) {
     go();
-})
+});
 
 const divResult = document.getElementById("divResult");
 
